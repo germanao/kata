@@ -1,0 +1,13 @@
+{
+  "name": "kata",
+  "version": "1.0.0",
+  "description": "Kata is a Japanese word (型 or 形) meaning \"form\". It refers to a detailed choreographed pattern of martial arts movements made to be practised alone. It can also be reviewed within groups and in unison when training. It is practised in Japanese martial arts as a way to memorize and perfect the movements being executed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "js": "node index.js",
+    "c": "dotnet run ./ConsoleApp/Program.cs --project ConsoleApp"
+  },
+  "author": "",
+  "license": "ISC"
+}
